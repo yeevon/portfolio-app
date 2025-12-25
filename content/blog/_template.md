@@ -1,4 +1,4 @@
-# Blog post template (content/blog/<slug>.md)
+# Blog post template (content/blog/slug.md)
 
 This file will list out the template format for all blog files. This template should be followed so content will display correctly on the website.
 
