@@ -1,20 +1,27 @@
 # Courses template example
 
----
-
 title: "Course Name"
+
 platform: "Where you took course"
+
 provider: "Instructor or Institution (optional)"
+
 year: YYYY
-status: pending | inprogress | completed
+
+status: pending | in-progress | completed
+
 slug: "course-name-slug"
+
 tags:
-    - language
-    - frame work
-    - deisgn pattern
+
+- language
+- framework
+- design-patterns
+
 related:
-    - portfolio-app
-    - other-project
+
+- portfolio-app
+- other-project
 
 ---
 

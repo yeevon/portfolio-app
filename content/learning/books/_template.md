@@ -1,19 +1,25 @@
 # Books template example
 
----
-
 title: "Book Name"
+
 author: "Some One"
+
 date: 2020
+
 status: reading | completed | planned
+
 slug: "book-name-slug"
+
 tags:
-    - software engineering
-    - systems
-    - testing
+
+- software engineering
+- systems
+- testing
+
 related:
-    - portfolio-app
-    - other-project
+
+- portfolio-app
+- other-project
 
 ---
 

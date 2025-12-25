@@ -1,21 +1,28 @@
 # Job entry template
 
----
-
 company: "Company Name"
+
 location: "Company Address"
+
 title: "Final Job title"
+
 slug "company-title"
+
 start: YYYY-MM
+
 end : YYYY-MM | present
+
 tags:
-    - qa
-    - automation
-    - government
+
+- qa
+- automation
+- government
+
 tech:
-    - Java
-    - C#
-    - Selenium
+
+- Java
+- C#
+- Selenium
 
 ---
 

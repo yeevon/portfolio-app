@@ -5,16 +5,24 @@ This file will list out the template format for all blog files. This template sh
 ---
 
 title: "Post Title Here"
+
 slug: "post-slug-here"
+
 date: YYYY-MM-DD
+
 summary: "Short 1-2 sentence summary of what this post is about."
+
 tags: [Examples]
-    - netxjs
-    - portfolio
-    - learning
+
+- netxjs
+- portfolio
+- learning
+
 relatedProjects:
-    - portfolio-app
-status: [Pending | In Progress | Complete | Published]
+
+- portfolio-app
+
+status: Pending | In Progress | Complete | Published
 
 ---
 

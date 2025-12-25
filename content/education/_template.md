@@ -1,19 +1,26 @@
 # Education entry template
 
----
-
 institution: "University / School Name"
+
 degree: "Degree Name"
+
 field: "Major / Concentration"
+
 slug "school-degree-slug"
+
 start: YYYY-MM
+
 end : YYYY-MM
+
 status: in-progress | completed
+
 location: "City, State (optional)
+
 tags:
-    - computer-science
-    - mathematics
-    - software-engineering
+
+- computer-science
+- mathematics
+- software-engineering
 
 ---
 
